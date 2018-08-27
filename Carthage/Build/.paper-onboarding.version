@@ -1,0 +1,18 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "4.0.2",
+  "iOS" : [
+    {
+      "name" : "PaperOnboarding",
+      "hash" : "254c1549fe7e1776239da3e5f061aeaa7a597d746594ed00007ea5c72c00c02a"
+    }
+  ]
+}
