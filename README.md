@@ -20,7 +20,7 @@ Our website will help the farmers by recommending them an appropriate crop based
 <img src="https://github.com/BhushanJoshi93/Agrarian/blob/master/mockup/Screen%20Shot%202018-08-27%20at%201.01.46%20PM.png" width="40%">
 
 
-## Select City Modal
+## Select City Model
 <img src="https://github.com/BhushanJoshi93/Agrarian/blob/master/mockup/Screen%20Shot%202018-08-27%20at%201.01.50%20PM.png" width="40%">
 
 ## Image Recognition Activity
