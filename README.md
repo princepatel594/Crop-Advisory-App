@@ -8,7 +8,7 @@ farming technique that uses research data of soil characteristics, soil types, c
 farmers the right crop based on their site-specific parameters. 
 
 # Work:
-Our website will help the farmers by recommending them an appropriate crop based on their soil type and location and assists them on making better decisions regarding farming. This increases the rate of accuracy in making the correct choice while selecting the crop and thus proliferate the productivity. A feature is also provided in the iOS Application for the farmers to find out the cause of a crop disease and to get its detailed description by just uploading the picture of the infected plant.
+Our website will help the farmers by recommending them an appropriate crop based on their soil type and location and assists them on making better decisions regarding farming. This increases the rate of accuracy in making the correct choice while selecting the crop and thus proliferate the productivity. A feature is also provided in the Android & iOS Application for the farmers to find out the cause of a crop disease and to get its detailed description by just uploading the picture of the infected plant.
 
 # Screenshots:
 
